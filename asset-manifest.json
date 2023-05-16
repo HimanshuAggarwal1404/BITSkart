@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BITSkart/static/css/main.4440c0cc.css",
-    "main.js": "/BITSkart/static/js/main.a038e0f8.js",
+    "main.css": "/BITSkart/static/css/main.ce4c8996.css",
+    "main.js": "/BITSkart/static/js/main.e0590dcb.js",
     "static/js/787.28cb0dcd.chunk.js": "/BITSkart/static/js/787.28cb0dcd.chunk.js",
     "static/media/sports.png": "/BITSkart/static/media/sports.1b661f6a445f18fe7c21.png",
     "static/media/electronics.png": "/BITSkart/static/media/electronics.601dd6cb4eb2ff49d7cc.png",
@@ -46,12 +46,12 @@
     "static/media/nordce3.webp": "/BITSkart/static/media/nordce3.49ff4a6bd0495736b7ab.webp",
     "static/media/samsung.webp": "/BITSkart/static/media/samsung.ec9795706221871e3d98.webp",
     "index.html": "/BITSkart/index.html",
-    "main.4440c0cc.css.map": "/BITSkart/static/css/main.4440c0cc.css.map",
-    "main.a038e0f8.js.map": "/BITSkart/static/js/main.a038e0f8.js.map",
+    "main.ce4c8996.css.map": "/BITSkart/static/css/main.ce4c8996.css.map",
+    "main.e0590dcb.js.map": "/BITSkart/static/js/main.e0590dcb.js.map",
     "787.28cb0dcd.chunk.js.map": "/BITSkart/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4440c0cc.css",
-    "static/js/main.a038e0f8.js"
+    "static/css/main.ce4c8996.css",
+    "static/js/main.e0590dcb.js"
   ]
 }
