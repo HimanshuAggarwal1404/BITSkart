@@ -5,6 +5,7 @@ import Clothing from './clothing';
 import Mobiles from './mobiles';
 import Offers from './offers';
 import Misc from './misc';
+import Kitchen from './kitchen';
 
 function App() {
   return (
@@ -12,10 +13,11 @@ function App() {
       <Header />
       <Carousel />
       <Electronics/>
-      <Clothing />
       <Offers />
+      <Clothing />
       <Mobiles />
       <Misc />
+      <Kitchen />
       
     </div>
   );

@@ -38,7 +38,7 @@ function Header() {
             <a href="#electronics">Grocery</a>
           </li>
           <li>
-            <a href="#electronics">Kitchen & Dining</a>
+            <a href="#kitchen">Kitchen & Dining</a>
           </li>
           <li>
             <a href="#electronics">Sports & Fitness</a>
