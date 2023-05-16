@@ -1,0 +1,58 @@
+.overall{
+    width: 100vw;
+    height: 40vh;
+    background-color: black;
+    display: block;
+    border-radius: 10%;
+}
+.text{
+    color: white;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-size: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.offers{
+    width: 100vw;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.offers div{
+    width: 25vh;
+    height: 25vh;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    transition: 0.5s ease;
+}
+.under99{
+    background-color: rgb(235, 83, 108);
+}
+
+.under299{
+    background-color: gold;
+    
+}
+.under399{
+    background-color: rgb(63, 63, 247);
+}
+.under599{
+    background-color: greenyellow;
+}
+.offers div:hover{
+    transform: scale(1.2) rotate(360deg);
+    cursor: pointer;
+text-decoration: underline;}
+.offers a{
+    text-decoration: none;
+}
