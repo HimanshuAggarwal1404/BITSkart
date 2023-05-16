@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/BITSkart/static/css/main.d32bd91b.css",
+    "main.js": "/BITSkart/static/js/main.11f38a79.js",
+    "static/js/787.28cb0dcd.chunk.js": "/BITSkart/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sports.png": "/BITSkart/static/media/sports.1b661f6a445f18fe7c21.png",
+    "static/media/electronics.png": "/BITSkart/static/media/electronics.601dd6cb4eb2ff49d7cc.png",
+    "static/media/lg.jpg": "/BITSkart/static/media/lg.574988bcc922bf3d4e11.jpg",
+    "static/media/clothing.webp": "/BITSkart/static/media/clothing.393c6bc47bdd0446946b.webp",
+    "static/media/mobile.webp": "/BITSkart/static/media/mobile.1141da03203df8a8ad3d.webp",
+    "static/media/pharma.jpg": "/BITSkart/static/media/pharma.7ebf82aa011d7e39a1cf.jpg",
+    "static/media/oppo.webp": "/BITSkart/static/media/oppo.4c58be051c63d6f36868.webp",
+    "static/media/footwear.webp": "/BITSkart/static/media/footwear.1f206234a9576916d165.webp",
+    "static/media/vivo.webp": "/BITSkart/static/media/vivo.e8ab5b9e11719b42480c.webp",
+    "static/media/bluestarac.webp": "/BITSkart/static/media/bluestarac.8f3545815343fec06aca.webp",
+    "static/media/redmi.webp": "/BITSkart/static/media/redmi.1eefc53b040632095903.webp",
+    "static/media/iphone.webp": "/BITSkart/static/media/iphone.e47716fac36a5d78087c.webp",
+    "static/media/kettle.webp": "/BITSkart/static/media/kettle.c442f0821497354a5100.webp",
+    "static/media/grocery.jpg": "/BITSkart/static/media/grocery.893341586d584f500d12.jpg",
+    "static/media/s21.webp": "/BITSkart/static/media/s21.287768e7d6550e707936.webp",
+    "static/media/lg wm.webp": "/BITSkart/static/media/lg wm.715b5581f0f82c64d01b.webp",
+    "static/media/s23 ultra.webp": "/BITSkart/static/media/s23 ultra.9e42ca6a58f6d27755ee.webp",
+    "static/media/nordce3.webp": "/BITSkart/static/media/nordce3.49ff4a6bd0495736b7ab.webp",
+    "static/media/samsung.webp": "/BITSkart/static/media/samsung.ec9795706221871e3d98.webp",
+    "index.html": "/BITSkart/index.html",
+    "main.d32bd91b.css.map": "/BITSkart/static/css/main.d32bd91b.css.map",
+    "main.11f38a79.js.map": "/BITSkart/static/js/main.11f38a79.js.map",
+    "787.28cb0dcd.chunk.js.map": "/BITSkart/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32bd91b.css",
+    "static/js/main.11f38a79.js"
+  ]
+}
