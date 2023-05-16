@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BITSkart/static/css/main.98ce0b4d.css",
-    "main.js": "/BITSkart/static/js/main.853cc282.js",
+    "main.css": "/BITSkart/static/css/main.f9dd773e.css",
+    "main.js": "/BITSkart/static/js/main.dbe15495.js",
     "static/js/787.28cb0dcd.chunk.js": "/BITSkart/static/js/787.28cb0dcd.chunk.js",
     "static/media/sports.png": "/BITSkart/static/media/sports.1b661f6a445f18fe7c21.png",
     "static/media/electronics.png": "/BITSkart/static/media/electronics.601dd6cb4eb2ff49d7cc.png",
@@ -15,18 +15,23 @@
     "static/media/pharma.jpg": "/BITSkart/static/media/pharma.7ebf82aa011d7e39a1cf.jpg",
     "static/media/sweater.jpg": "/BITSkart/static/media/sweater.2ada735798ccc8c6ea59.jpg",
     "static/media/oppo.webp": "/BITSkart/static/media/oppo.4c58be051c63d6f36868.webp",
+    "static/media/bb.jpg": "/BITSkart/static/media/bb.d20cb5d69ac4dd2e0c62.jpg",
+    "static/media/kit.jpg": "/BITSkart/static/media/kit.4b412b861e118d0a4e92.jpg",
     "static/media/firebolt.jpg": "/BITSkart/static/media/firebolt.a3412a6dfb3bf35fee0c.jpg",
+    "static/media/treadmill.jpg": "/BITSkart/static/media/treadmill.e46d0081d059157017e8.jpg",
     "static/media/shirt1.jpg": "/BITSkart/static/media/shirt1.b65afe01a94bab16809a.jpg",
     "static/media/footwear.webp": "/BITSkart/static/media/footwear.1f206234a9576916d165.webp",
     "static/media/blood sugar.jpg": "/BITSkart/static/media/blood sugar.82780a639df261b013bb.jpg",
     "static/media/jbl.jpg": "/BITSkart/static/media/jbl.9c07174c2ee552f44ffe.jpg",
     "static/media/vivo.webp": "/BITSkart/static/media/vivo.e8ab5b9e11719b42480c.webp",
+    "static/media/cosco.jpg": "/BITSkart/static/media/cosco.ecb2c490447169a06018.jpg",
     "static/media/shirt2.jpg": "/BITSkart/static/media/shirt2.12d9dc7b209c5a1496cd.jpg",
     "static/media/bluestarac.webp": "/BITSkart/static/media/bluestarac.8f3545815343fec06aca.webp",
     "static/media/kurta.jpg": "/BITSkart/static/media/kurta.8dfe70bb206b24dae816.jpg",
     "static/media/redmi.webp": "/BITSkart/static/media/redmi.1eefc53b040632095903.webp",
     "static/media/jogger.jpg": "/BITSkart/static/media/jogger.15e4bf7be360c2eb7ae2.jpg",
     "static/media/boat.jpg": "/BITSkart/static/media/boat.f02d0b9a8a3162344ae7.jpg",
+    "static/media/gym.jpg": "/BITSkart/static/media/gym.5509d3e186fc697d9f8a.jpg",
     "static/media/iphone.webp": "/BITSkart/static/media/iphone.e47716fac36a5d78087c.webp",
     "static/media/kettle.webp": "/BITSkart/static/media/kettle.c442f0821497354a5100.webp",
     "static/media/grocery.jpg": "/BITSkart/static/media/grocery.893341586d584f500d12.jpg",
@@ -38,12 +43,12 @@
     "static/media/nordce3.webp": "/BITSkart/static/media/nordce3.49ff4a6bd0495736b7ab.webp",
     "static/media/samsung.webp": "/BITSkart/static/media/samsung.ec9795706221871e3d98.webp",
     "index.html": "/BITSkart/index.html",
-    "main.98ce0b4d.css.map": "/BITSkart/static/css/main.98ce0b4d.css.map",
-    "main.853cc282.js.map": "/BITSkart/static/js/main.853cc282.js.map",
+    "main.f9dd773e.css.map": "/BITSkart/static/css/main.f9dd773e.css.map",
+    "main.dbe15495.js.map": "/BITSkart/static/js/main.dbe15495.js.map",
     "787.28cb0dcd.chunk.js.map": "/BITSkart/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98ce0b4d.css",
-    "static/js/main.853cc282.js"
+    "static/css/main.f9dd773e.css",
+    "static/js/main.dbe15495.js"
   ]
 }
